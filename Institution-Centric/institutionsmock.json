@@ -1,0 +1,42 @@
+[
+ {
+   "FIELD1": "Institution",
+   "FIELD2": "Institution Type",
+   "FIELD3": "Parent Institution",
+   "FIELD4": "Root Institution",
+   "FIELD5": "Country",
+   "FIELD6": "State"
+ },
+ {
+   "FIELD1": "Florida State University",
+   "FIELD2": "University",
+   "FIELD3": "",
+   "FIELD4": "",
+   "FIELD5": "United States",
+   "FIELD6": "FL"
+ },
+ {
+   "FIELD1": "Florida State University College of Social Sciences",
+   "FIELD2": "School/College",
+   "FIELD3": "Florida State University",
+   "FIELD4": "Florida State University",
+   "FIELD5": "United States",
+   "FIELD6": "FL"
+ },
+ {
+   "FIELD1": "Florida State University Department of Economics",
+   "FIELD2": "School/College",
+   "FIELD3": "Florida State University College of Social Sciences",
+   "FIELD4": "Florida State University",
+   "FIELD5": "United States",
+   "FIELD6": "FL"
+ },
+ {
+   "FIELD1": "James Madison Institute",
+   "FIELD2": "Research Organization",
+   "FIELD3": "",
+   "FIELD4": "",
+   "FIELD5": "United States",
+   "FIELD6": "FL"
+ }
+]
